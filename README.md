@@ -1,6 +1,6 @@
 # 🧩 Desafios de Lógica de Programação - Curso Alura
 
-Bem-vindo(a) ao repositório que contém 5 desafios propostos no curso de **Lógica de Programação** da escola online **Alura**! 🚀 
+Esse repositório contém 5 desafios propostos no curso de **Lógica de Programação** da escola online de tecnologia **Alura**! 🚀 
 Este projeto é uma demonstração prática da aplicação de conceitos de lógica de programação utilizando **JavaScript**.
 
 ## 📂 Estrutura do Repositório
