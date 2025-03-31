@@ -20,7 +20,4 @@ Este repositório foi criado com a intenção de documentar e compartilhar as so
 - **HTML**
 - **CSS**
 
-## 🤝 Contribuições
-
-Contribuições são sempre bem-vindas! Se você tiver alguma sugestão de melhoria ou encontrar algo que possa ser aprimorado, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. 
 
